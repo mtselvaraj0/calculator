@@ -9,5 +9,7 @@ class Test
 		System.out.println(c);
 		int d = a*b;
 		System.out.println(d);
+		int f = a-b;
+		System.out.println(f);
 	}
 }
